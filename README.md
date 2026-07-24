@@ -1,45 +1,70 @@
-# Hi 👋, I'm Riya
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2h3M2VtNG14N2d0Nm13bWV0aTJoM2x3YTB6eDhiN3E3ZWEzZXJ5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378BzHA5FwWFXVSg/giphy.gif" width="700">
+</p>
 
-🎓 Final Year AIML Student at BMS College of Engineering, Bangalore
+<h1 align="center">Hi 👋, I'm Riya</h1>
 
-💻 Passionate about Software Development, Frontend Development, and AI/ML
+<h3 align="center">
+💖 AIML Student • 🤖 AI Enthusiast • 💻 Frontend Learner • 🚀 Future Software Engineer
+</h3>
 
-🚀 Currently preparing for Software Engineering placements and building real-world projects
+<p align="center">
+Building projects, solving DSA, and preparing for placements.
+</p>
 
-💻 Skills
-- Java
-- Data Structures & Algorithms
-- HTML
-- CSS
-- JavaScript
-- Machine Learning
-- Git & GitHub
+---
 
-## 🚀 Projects
+## 🌸 About Me
 
-### 🏨 Hostel Management System
-Team project for managing hostel operations, student records, and room allocation.
+🎓 AIML Student at BMS College of Engineering, Bangalore
 
-### 🧠 LifeLens AI
-AI-powered journal sentiment and productivity analyzer using Flask and NLP.
+💻 Learning Frontend Development, DSA & System Design
 
-### ☕ Caffeine Monitoring System
-Smart monitoring system that tracks caffeine intake and promotes healthy consumption habits.
+🤖 Interested in AI/ML and Real-World Problem Solving
 
-### 📊 Queue Monitoring System
-IoT-based system for real-time queue monitoring and management.
+🚀 Goal: Secure a Software Engineering role and build impactful products
 
-🌱 Currently Learning
-- Frontend Development
-- Computer Networks
-- System Design
-- Advanced DSA
+---
 
-🎯 Goal
-To become a Software Engineer and secure a great placement opportunity.
+## 🛠️ Tech Stack
 
-📫 Connect with Me
-- LinkedIn: www.linkedin.com/in/riya-kumari-539715384
+☕ Java
 
-⭐ Fun Fact
-I am passionate about building AI and IoT solutions that solve real-world problems.
+🌐 HTML • CSS • JavaScript
+
+🤖 Machine Learning
+
+🔧 Git & GitHub
+
+📊 Data Structures & Algorithms
+
+---
+
+## 🚀 Featured Projects
+
+🏨 Hostel Management System
+
+🧠 LifeLens AI
+
+☕ Caffeine Monitoring System
+
+📊 Queue Monitoring System
+
+---
+
+## 🌱 Currently Working On
+
+✅ Frontend Development
+
+✅ DSA Placement Preparation
+
+✅ Computer Networks
+
+✅ System Design
+
+---
+
+
+## 💫 Fun Fact
+
+Passionate about building AI-powered and user-focused applications. 🤖💖
