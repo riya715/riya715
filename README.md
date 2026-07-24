@@ -1,6 +1,10 @@
 # Hi 👋, I'm Riya
 
-🎓 AIML Student at BMS College of Engineering, Bangalore
+🎓 Final Year AIML Student at BMS College of Engineering, Bangalore
+
+💻 Passionate about Software Development, Frontend Development, and AI/ML
+
+🚀 Currently preparing for Software Engineering placements and building real-world projects
 
 💻 Skills
 - Java
@@ -11,19 +15,19 @@
 - Machine Learning
 - Git & GitHub
 
-🚀 Projects
+## 🚀 Projects
 
 ### 🏨 Hostel Management System
-A web based system for managing hostel operations and student records.
+Team project for managing hostel operations, student records, and room allocation.
 
 ### 🧠 LifeLens AI
-AI-powered journal sentiment and productivity analyzer built using Flask and NLP.
+AI-powered journal sentiment and productivity analyzer using Flask and NLP.
 
 ### ☕ Caffeine Monitoring System
-A smart system that tracks caffeine intake and helps users maintain healthy consumption habits.
+Smart monitoring system that tracks caffeine intake and promotes healthy consumption habits.
 
 ### 📊 Queue Monitoring System
-IoT-based solution for monitoring queue lengths and reducing waiting time.
+IoT-based system for real-time queue monitoring and management.
 
 🌱 Currently Learning
 - Frontend Development
