@@ -1,10 +1,16 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<h1 align="center">Hi 👋, I'm Riya Kumari</h1>
 
-<h1 align="center">Hey, I am Riya Kumari 👋</h1>
+<h3 align="center">
+AIML Student • Java Developer • Frontend Learner • AI/ML Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://github.com/riya715">💻 GitHub</a> •
-  <a href="www.linkedin.com/in/riya-kumari-539715384">🔗 LinkedIn</a>
+Building real-world projects, solving DSA problems, and preparing for Software Engineering roles.
+</p>
+
+<p align="center">
+  <a href="https://github.com/riya715">GitHub</a> •
+  <a href="www.linkedin.com/in/riya-kumari-539715384">LinkedIn</a>
 </p>
 
 ---
