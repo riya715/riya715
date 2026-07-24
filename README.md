@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/riya715/riya715/main/banner.png" width="100%">
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Riya Kumari</h1>
 
